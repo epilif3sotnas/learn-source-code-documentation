@@ -1,17 +1,17 @@
 ## About learn-source-documentation
 
-This repository was built with the goal to learn about source code documentation and its HTML generation in Nim, Java, and Python.
+This repository was built with the goal to learn about source code documentation and its HTML generation in Nim, Java, and Go.
 
 &nbsp;
 
 
 ## Requirements
 
-#### Nim => Package.nimble
+#### Nim    => Package.nimble
 
-#### Java => pom.xml
+#### Java   => pom.xml
 
-#### Python => Requirements.txt
+#### Go     => go.mod
 
 &nbsp;
 
@@ -22,7 +22,7 @@ In each folder there is another README to explain how to run  each project.
 
 - [Nim](https://github.com/epilif3sotnas/learn-source-code-documentation/tree/main/nim)
 - [Java](https://github.com/epilif3sotnas/learn-source-code-documentation/tree/main/java)
-- [Python](https://github.com/epilif3sotnas/learn-source-code-documentation/tree/main/python)
+- [Go](https://github.com/epilif3sotnas/learn-source-code-documentation/tree/main/go)
 
 &nbsp;
 
