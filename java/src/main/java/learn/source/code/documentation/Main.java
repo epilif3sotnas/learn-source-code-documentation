@@ -11,5 +11,219 @@ public class Main {
         var math = new Math();
         System.out.println(math.fibonacci(10));
         System.out.println(math.square(10));
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+
+        var math = new Math();
+        System.out.println(math.fibonacci(10));
+        System.out.println(math.square(10));
+        
+
     }
 }
