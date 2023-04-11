@@ -1,4 +1,4 @@
-package learn.source.code.documentation.math;
+package learn.source1.code.documentation.math;
 
 // std
 import java.util.ArrayList;
