@@ -1,11 +1,14 @@
+// Package that runs the fibonacci and square of 10 number.
 package main
 
-// std
-import "fmt"
+import(
+	// std
+	"fmt"
 
-// internal
-import "learn-source-code-documentation/math"
-
+	// internal
+	"learn-source-code-documentation/math"
+) 
+	
 
 func main() {
 	math := math.NewMath()

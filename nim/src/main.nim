@@ -1,5 +1,5 @@
-# internal
 import
+  # internal
   ./math/math
 
 proc main() =
