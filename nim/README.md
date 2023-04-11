@@ -16,7 +16,7 @@ Commands to build documentation of the project:
 
 ```
 cd {PATH_REPOSITORY}/nim;
-nim doc --project --index:on --outdir:htmldocs src/main.nim;
+nim doc --project --index:on --outdir:target/htmldocs src/main.nim;
 ```
 
 &nbsp;
@@ -28,5 +28,5 @@ Commands to create a server for documentation:
 
 ```
 cd {PATH_REPOSITORY}/nim;
-python3 -m http.server 8080 --directory htmldocs;
+python3 -m http.server 8080 --directory target/htmldocs;
 ```

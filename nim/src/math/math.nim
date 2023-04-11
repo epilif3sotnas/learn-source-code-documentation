@@ -7,7 +7,7 @@
 runnableExamples:
     let mathObj = newMath()
     let fibonacci10 = mathObj.fibonacci(10'u32)
-    assert fibonacci10 == 55'u64
+    assert 55'u64 == fibonacci10
 
 
 type
@@ -15,7 +15,7 @@ type
 
 
 proc newMath*(): Math =
-    ## Procedure responsible to create a Math object to call the procedures of Math type
+    ## Procedure responsible to create a Math object to call the procedures of Math type (constructor).
     runnableExamples:
         let mathObj = newMath()
     
@@ -26,7 +26,7 @@ proc fibonacci*(self: Math, num: uint32): uint64 =
     runnableExamples:
         let mathObj = newMath()
         let fibonacci10 = mathObj.fibonacci(10'u32)
-        assert fibonacci10 == 55'u64
+        assert 55'u64 == fibonacci10
 
     if num <= 0:
         return 0'u64
@@ -51,6 +51,6 @@ proc square*(self: Math, num: uint32): uint64 =
     runnableExamples:
         let mathObj = newMath()
         let square10 = mathObj.square(10'u32)
-        assert square10 == 100'u64
+        assert 100'u64 == square10
 
     return num * num
