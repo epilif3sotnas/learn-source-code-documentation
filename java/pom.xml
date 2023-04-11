@@ -1,0 +1,82 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>learn.source.code.documentation</groupId>
+  <artifactId>learn-source-code-documentation</artifactId>
+  <packaging>jar</packaging>
+  <name>learn-source-code-documentation</name>
+  <version>0.1.0</version>
+  <developers>
+    <developer>
+      <id>epilif3sotnas</id>
+      <name>Filipe Santos</name>
+      <email>filipesantos1999@hotmail.com</email>
+    </developer>
+  </developers>
+
+  <url>https://github.com/epilif3sotnas/learn-source-code-documentation.git</url>
+  <description>Learn source code documentation.</description>
+  <licenses>
+    <license>
+      <name>Apache-2.0</name>
+    </license>
+  </licenses>
+
+  <properties>
+    <maven.compiler.source>19</maven.compiler.source>
+    <maven.compiler.target>19</maven.compiler.target>
+    <maven.compiler.release>19</maven.compiler.release>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding> 
+    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+  </properties>
+
+  <dependencies>
+
+  </dependencies>
+
+  <build>
+    <extensions>
+      <extension>
+        <groupId>kr.motd.maven</groupId>
+        <artifactId>os-maven-plugin</artifactId>
+      </extension>
+    </extensions>
+
+    <plugins>
+      <plugin>
+        <artifactId>maven-assembly-plugin</artifactId>
+        <executions>
+          <execution>
+            <phase>package</phase>
+            <goals>
+              <goal>single</goal>
+            </goals>
+          </execution>
+        </executions>
+        <configuration>
+          <archive>
+            <manifest>
+              <addClasspath>true</addClasspath>
+              <mainClass>learn.source.code.documentation.Main</mainClass>
+            </manifest>
+          </archive>
+          <descriptorRefs>
+            <descriptorRef>jar-with-dependencies</descriptorRef>
+          </descriptorRefs>
+        </configuration>
+      </plugin>
+
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-javadoc-plugin</artifactId>
+        <version>3.0.0</version>
+        <configuration>
+          <javadocExecutable>${java.home}/bin/javadoc</javadocExecutable>
+          <source>19</source>
+          <target>19</target>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
+</project>
