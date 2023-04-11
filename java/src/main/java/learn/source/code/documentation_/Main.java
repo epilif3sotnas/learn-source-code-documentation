@@ -1,6 +1,6 @@
-package learn.source.code.documentation1;
+package learn.source.code.documentation_;
 
-import learn.source.code.documentation1.math.Math;
+import learn.source.code.documentation_.math.Math;
 
 /**
  * {@docRoot}

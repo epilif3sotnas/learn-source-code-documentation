@@ -2,7 +2,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>learn.source.code.documentation</groupId>
+  <groupId>learn.source.code.documentation_</groupId>
   <artifactId>learn-source-code-documentation</artifactId>
   <packaging>jar</packaging>
   <name>learn-source-code-documentation</name>
@@ -58,7 +58,7 @@
           <archive>
             <manifest>
               <addClasspath>true</addClasspath>
-              <mainClass>learn.source.code.documentation.Main</mainClass>
+              <mainClass>learn.source.code.documentation_.Main</mainClass>
             </manifest>
           </archive>
           <descriptorRefs>
